@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte B760 GAMING X, Intel Core i9 12900K, AMD Radeon RX 580 & WiFI/BT Intel
 
+<img width="1988" height="1186" alt="Portfolio 1" src="https://github.com/user-attachments/assets/e633fc13-7838-4d93-9571-f0005fcc69bf" />
+
 # Basic Information
 
 **Latest working macOS**: macOS Tahoe (26.1)
